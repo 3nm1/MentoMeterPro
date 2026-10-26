@@ -1,5 +1,7 @@
 #pragma once
 
+#include <stdint.h>
+
 const uint8_t BUTTON_1 = 2;
 const uint8_t BUTTON_2 = 4;
 const uint8_t BUTTON_3 = 5;
